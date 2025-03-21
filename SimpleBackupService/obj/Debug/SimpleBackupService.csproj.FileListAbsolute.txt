@@ -1,0 +1,7 @@
+C:\Users\ghaya\source\repos\SimpleBackupService\bin\Debug\SimpleBackupService.exe.config
+C:\Users\ghaya\source\repos\SimpleBackupService\bin\Debug\SimpleBackupService.exe
+C:\Users\ghaya\source\repos\SimpleBackupService\bin\Debug\SimpleBackupService.pdb
+C:\Users\ghaya\source\repos\SimpleBackupService\obj\Debug\SimpleBackupService.csproj.AssemblyReference.cache
+C:\Users\ghaya\source\repos\SimpleBackupService\obj\Debug\SimpleBackupService.csproj.CoreCompileInputs.cache
+C:\Users\ghaya\source\repos\SimpleBackupService\obj\Debug\SimpleBackupService.exe
+C:\Users\ghaya\source\repos\SimpleBackupService\obj\Debug\SimpleBackupService.pdb
